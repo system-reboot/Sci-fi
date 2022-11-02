@@ -24,6 +24,9 @@ h1{
     transform: translateX(-50%);
     white-space: nowrap;
 }
+h2{
+   color:#fff; 
+}
 .btn{
     text-decoration: none;
     color:#FFF;
