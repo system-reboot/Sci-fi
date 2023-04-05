@@ -102,7 +102,8 @@ h2{
     width: var(--other-width)
 }
 .hover-right .right{
-    width: var(--hover-width)
+    width: var(--hover-width)  
+    /* C1ph3rCTF{Ju57_Css} */
 }
 @media (max-width: 800px){
     h1{
